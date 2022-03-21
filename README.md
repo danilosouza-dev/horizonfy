@@ -34,7 +34,7 @@ HorizonFy é um projeto desenvolvido para um desafio de código proposto pela em
 ## ⚙ Configuração
 
 1- Para instalar as dependências:
-> npm init
+> npm install
 
 2- Para iniciar a aplicação:
 > npm start
